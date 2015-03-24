@@ -1,0 +1,7 @@
+Name	Number of innings	Minimum runs	25th percentile	Median	Mean	75th percentile 	Maximum runs	Skew	Kurtosis
+Sachin Tendulkar	329	0	10	32	48.39	73	248	1.46	1.75
+Sunil Gavaskar	214	0	8	29	47.3	67.75	236	1.42	1.72
+Rahul Dravid	286	0	10.25	33	46.46	68	270	1.67	3.12
+AB De Villiers	160	0	11.75	33	46.55	64.25	278	1.74	3.79
+Brian Lara	232	0	8	33.5	51.52	72.25	400	2.31	7.2
+Ricky Ponting	287	0	9	28	46.61	65.5	257	1.6	2.54
